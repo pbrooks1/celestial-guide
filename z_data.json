@@ -1,0 +1,98 @@
+{
+  "Aries": {
+    "traits": ["confident", "energetic", "bold", "impulsive"],
+    "strengths": ["leadership", "courage", "initiative"],
+    "weaknesses": ["impatience", "short temper"],
+    "compatibility": ["Leo", "Sagittarius", "Gemini"],
+    "ruling_planet": "Mars",
+    "element": "Fire"
+  },
+  "Taurus": {
+    "traits": ["reliable", "grounded", "patient", "stubborn"],
+    "strengths": ["loyalty", "stability", "practicality"],
+    "weaknesses": ["resistance to change", "possessiveness"],
+    "compatibility": ["Virgo", "Capricorn", "Cancer"],
+    "ruling_planet": "Venus",
+    "element": "Earth"
+  },
+  "Gemini": {
+    "traits": ["adaptable" ,"curious", "social", "indecisive"],
+    "strengths": ["communication", "versatility"],
+    "weaknesses": ["inconsistency", "restlessness"],
+    "compatibility": ["Libra", "Aquarius", "Aries"],
+    "ruling_planet": "Mercury",
+    "element": "Air"
+  },
+  "Cancer": {
+    "traits": ["emotional", "intuitive", "protective", "loyal"],
+    "strengths": ["empathy", "nurturing"],
+    "weaknesses": ["moodiness", "sensitivity"],
+    "compatibility": ["Scorpio", "Pisces", "Taurus"],
+    "ruling_planet": "Moon",
+    "element": "Water"
+  },
+  "Leo": {
+    "traits": ["confident", "charismatic", "creative", "proud"],
+    "strengths": ["leadership", "generosity"],
+    "weaknesses": ["arrogance", "attention-seeking"],
+    "compatibility": ["Aries", "Sagittarius", "Libra"],
+    "ruling_planet": "Sun",
+    "element": "Fire"
+  },
+  "Virgo": {
+    "traits": ["analytical", "practical", "detail-oriented", "perfectionist"],
+    "strengths": ["organization", "reliability"],
+    "weaknesses": ["overcritical", "worry"],
+    "compatibility": ["Taurus", "Capricorn", "Cancer"],
+    "ruling_planet": "Mercury",
+    "element": "Earth"
+  },
+  "Libra": {
+    "traits": ["balanced", "diplomatic", "social", "indecisive"],
+    "strengths": ["fairness", "charm"],
+    "weaknesses": ["avoidance", "people-pleasing"],
+    "compatibility": ["Gemini", "Aquarius", "Leo"],
+    "ruling_planet": "Venus",
+    "element": "Air"
+  },
+  "Scorpio": {
+    "traits": ["intense", "passionate", "mysterious", "loyal"],
+    "strengths": ["focus", "determination"],
+    "weaknesses": ["jealousy", "secrecy"],
+    "compatibility": ["Cancer", "Pisces", "Virgo"],
+    "ruling_planet": "Pluto",
+    "element": "Water"
+  },
+  "Sagittarius": {
+    "traits":["adventurous", "optimistic", "honest", "independent"],
+    "strengths": ["open-mindedness", "enthusiasm"],
+    "weaknesses": ["bluntness", "impatience"],
+    "compatibility": ["Aries", "Leo", "Aquarius"],
+    "ruling_planet": "Jupiter",
+    "element": "Fire"
+  },
+  "Capricorn": {
+    "traits": ["disciplined", "ambitious", "responsible", "reserved"],
+    "strengths": ["work ethic", "persistence"],
+    "weaknesses": ["pessimism", "rigidity"],
+    "compatibility": ["Taurus", "Virgo", "Scorpio"],
+    "ruling_planet": "Saturn",
+    "element": "Earth"
+  },
+  "Aquarius": {
+    "traits": ["innovative", "independent", "intellectual", "detached"],
+    "strengths": ["originality", "vision"],
+    "weaknesses": ["emotional distance", "stubbornness"],
+    "compatibility": ["Gemini", "Libra", "Sagittarius"],
+    "ruling_planet": "Uranus",
+    "element": "Air"
+  },
+  "Pisces": {
+    "traits": ["intuitive", "compassionate", "dreamy", "sensitive"],
+    "strengths": ["creativity", "empathy"],
+    "weaknesses": ["escapism", "overtrusting"],
+    "compatibility": ["Cancer", "Scorpio", "Capricorn"],
+    "ruling_planet": "Neptune",
+    "element": "Water"
+  }
+}
